@@ -1,0 +1,11 @@
+<keymap version="1" name="Default Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="Tool_External Tools_stylelint">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+</keymap>

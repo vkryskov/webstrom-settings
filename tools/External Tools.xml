@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="stylelint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\stylelint.cmd" />
+      <option name="PARAMETERS" value="--fix $FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="D:/sites/corebase/Src/CoreBase/CoreBase" />
+    </exec>
+  </tool>
+</toolSet>
