@@ -21,9 +21,9 @@
     <mask>*.json</mask>
     <mask>*spec.ts</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.cshtml</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
     <mask>*.ts</mask>
   </component>
 </application>
